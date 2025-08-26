@@ -1,1 +1,1 @@
-# GreedyZumaSnake
+# MyGames
